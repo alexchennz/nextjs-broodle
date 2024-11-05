@@ -1,5 +1,6 @@
 ## About the app
 This is an app to choose your daily mood, practice only
+
 NextJS, Firebase, Tailwind
 
 
